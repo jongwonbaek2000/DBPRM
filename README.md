@@ -1,2 +1,2 @@
 # DBPRM
-MATLAB codes for DBPRM
+MATLAB code for DBPRM
